@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java projects
-- 📫 You can reach me www.linkedin.com/in/Kishore-Raok
+- 📫 You can reach me www.linkedin.com/in/kishore-raok
 
 <!---
 Kishore-Raok/Kishore-Raok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
